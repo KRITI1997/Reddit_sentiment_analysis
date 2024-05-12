@@ -61,8 +61,11 @@ For accessing openAI API we need a secret key which we get from our openAI accou
 Install the requirements for the code through pip install.
 Enter the required credentials in the code and run it.
 
+# Challenges Faced:
 
-Acknowledgments:
+I was not able to make the OpenAI API requests as I was running into the 'Quota limit exceeded' error event though my requests and usage was zero.
+
+# Acknowledgments:
 
 Special thanks to the developers of PRAW and OpenAI for their excellent tools and APIs.
 This README provides an overview of the project, its features, workflow, dependencies, and instructions for usage. It serves as a guide for developers and users interested in utilizing the Reddit Health Sentiment Analyzer.
