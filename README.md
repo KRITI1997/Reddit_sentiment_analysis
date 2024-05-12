@@ -5,6 +5,6 @@ The main file contains the code where authentication of Reddit through user cred
 
 For scrapping the reddit comments, you need a reddit account where you need to create a developer app for this project at https://www.reddit.com/prefs/apps and once the developer credentials are generated we have a client id and client secret which we use in the code to authenticate the reddit account![image](https://github.com/KRITI1997/Reddit_sentiment_analysis/assets/46029875/497d9e64-2f41-41ad-b071-7866c0190576)
 
-For accessing openai API we need a secret key which we get from our openai account.
+For accessing openAI API we need a secret key which we get from our openAI account.
 
 
