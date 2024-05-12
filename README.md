@@ -7,4 +7,6 @@ For scrapping the reddit comments, you need a reddit account where you need to c
 
 For accessing openAI API we need a secret key which we get from our openAI account.
 
+Enter the required credentials in the code and run it.
+
 
