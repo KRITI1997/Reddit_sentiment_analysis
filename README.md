@@ -63,7 +63,7 @@ Enter the required credentials in the code and run it.
 
 # Challenges Faced:
 
-I was not able to make the OpenAI API requests as I was running into the 'Quota limit exceeded' error event though my requests and usage was zero.
+I was not able to make the OpenAI API requests as I was running into the 'Quota limit exceeded' error even though my requests and usage was zero.
 
 # Acknowledgments:
 
